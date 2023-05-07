@@ -1,1 +1,1 @@
-# mean_stack
+# The Mean Stack Project
